@@ -1,0 +1,8 @@
+body {
+    background-color: lightblue; 
+}
+h1 {
+    color:rgb(21, 21, 114);
+    margin-left: 20px;
+    box-shadow : 2px 2px 7px;
+}
